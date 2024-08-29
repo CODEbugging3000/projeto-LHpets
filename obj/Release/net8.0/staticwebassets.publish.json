@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AF1Pzje6PGC7fYG8lPr1ughpvviBmJXD35xcmTmQCYE=",
+  "Source": "ATV2SENAI",
+  "BasePath": "_content/ATV2SENAI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ATV2SENAI\\wwwroot",
+      "Source": "ATV2SENAI",
+      "ContentRoot": "C:\\Users\\galve\\OneDrive\\Área de Trabalho\\programação\\ATV2SENAI\\wwwroot\\",
+      "BasePath": "_content/ATV2SENAI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\galve\\OneDrive\\Área de Trabalho\\programação\\ATV2SENAI\\wwwroot\\index.html",
+      "SourceId": "ATV2SENAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\galve\\OneDrive\\Área de Trabalho\\programação\\ATV2SENAI\\wwwroot\\",
+      "BasePath": "_content/ATV2SENAI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
